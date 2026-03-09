@@ -4,7 +4,8 @@ Desde que tengo memoria, siempre me ha encantado la tecnología. Aunque he apren
 
 ---
 
-En qué ando metido ahora (#INCLUDE).
+Qué estoy haciendo ahora (#INCLUDE).
+
 Actualmente estoy estudiando con el **Programa #INCLUDE** de la **Fundación GoodJob**. Es un itinerario bastante intenso donde estamos aprendiendo ciberseguridad. 
 
 Básicamente, nos están preparando para entrar en el sector tecnológico con una base sólida, enfocándonos no solo en la parte técnica, sino en cómo trabajar en entornos profesionales de seguridad.
@@ -12,6 +13,7 @@ Básicamente, nos están preparando para entrar en el sector tecnológico con un
 ---
 
 Habilidades y Aprendizaje Actual.
+
 Basado en mi itinerario de estudio, estas son las áreas y herramientas que estoy dominando:
 
 * **Sistemas y Redes:** Configuración de entornos virtuales (VirtualBox, VMware), administración de sistemas Windows Enterprise y manejo fluido de terminal en **Kali Linux**.
@@ -22,6 +24,7 @@ Basado en mi itinerario de estudio, estas son las áreas y herramientas que esto
 ---
 
 **Contacto**.
+
 Si quieres compartir recursos de ciberseguridad, charlar sobre tecnología o simplemente conectar, por aquí te dejo mis redes:
 
 * **LinkedIn:** Por determinar
